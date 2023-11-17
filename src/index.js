@@ -1,5 +1,5 @@
 // index.js
-const { showResult } = require('./add');
+const { showResult } = require('../add');
 
 // Llamar a la función showResult con dos números como parámetros
 const resultadoColoreado = showResult(2, 3);
